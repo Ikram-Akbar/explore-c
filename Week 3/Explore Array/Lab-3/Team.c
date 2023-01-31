@@ -17,5 +17,5 @@ int main()
             solve += 1;
         }
     };
-    printf(" solved  the  question -  %d  ", solve);
+    printf("%d  ", solve);
 }
