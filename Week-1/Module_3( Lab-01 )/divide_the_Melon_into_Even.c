@@ -12,4 +12,5 @@ int main()
     {
         printf("impossible !");
     }
+    return 0;
 }
