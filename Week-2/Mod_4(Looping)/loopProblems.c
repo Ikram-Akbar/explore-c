@@ -4,7 +4,7 @@ int main()
     int i;
     for(i=1; i<=10; i++)
     {
-        printf("%d  number: %d \n",i);
+        printf("Number %d: %d \n", i, i);
     }
     return 0;
 }
